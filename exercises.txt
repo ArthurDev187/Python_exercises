@@ -1,0 +1,210 @@
+Here’s a set of 100 Python exercises, categorized from beginner to advanced, which will help you sharpen your skills progressively.
+Beginner Level (1–20)
+1.	Print Hello World
+Write a program to print "Hello, World!".
+
+2.	Simple Arithmetic Operations
+Write a program to add, subtract, multiply, and divide two numbers.
+
+3.	Even or Odd
+Write a program to check if a number is even or odd.
+
+4.	Input and Output
+Write a program that takes user input and prints it.
+
+5.	Fahrenheit to Celsius
+Write a program to convert temperatures from Fahrenheit to Celsius.
+6.	Find Largest Number
+Write a program that finds the largest of three numbers.
+7.	Area of a Circle
+Write a program to calculate the area of a circle from a given radius.
+8.	String Length
+Write a program that takes a string and prints the length.
+9.	Check Leap Year
+Write a program to check if a given year is a leap year.
+10.	Count Vowels in a String
+Write a program to count the number of vowels in a string.
+11.	Sum of List
+Write a program to calculate the sum of all elements in a list.
+12.	Reverse a String
+Write a program that reverses a given string.
+13.	Factorial Calculation
+Write a program to compute the factorial of a number.
+14.	Find Prime Numbers
+Write a program to check if a number is prime.
+15.	Fibonacci Sequence
+Write a program that generates the Fibonacci sequence up to n numbers.
+16.	Sum of Digits
+Write a program to find the sum of the digits of a number.
+17.	Palindromic String
+Write a program to check if a string is a palindrome.
+18.	List Comprehension
+Create a list of squares of numbers from 1 to 10 using list comprehension.
+19.	Guess the Number Game
+Write a simple number guessing game where the computer chooses a number and the player has to guess it.
+20.	Swap Two Variables
+Write a program to swap two numbers without using a temporary variable.
+Intermediate Level (21–60)
+21.	List of Even Numbers
+Write a program to create a list of even numbers between 1 and 100.
+22.	Find the Smallest Element in a List
+Write a program to find the smallest element in a list.
+23.	Prime Numbers in a Range
+Write a program that lists all prime numbers between two numbers.
+24.	Create a Simple Calculator
+Build a simple calculator that performs addition, subtraction, multiplication, and division.
+25.	Bubble Sort Algorithm
+Implement bubble sort in Python.
+26.	Matrix Multiplication
+Write a program to multiply two matrices.
+27.	Linear Search Algorithm
+Write a program that implements linear search.
+28.	Binary Search Algorithm
+Write a program that implements binary search.
+29.	Remove Duplicates from a List
+Write a program that removes duplicates from a list.
+30.	Count Frequency of List Elements
+Write a program to count the frequency of each element in a list.
+31.	Check Anagram
+Write a program to check if two strings are anagrams.
+32.	Create a Dictionary
+Write a program that creates a dictionary where keys are numbers from 1 to 5 and the values are cubes of the keys.
+33.	Merge Two Dictionaries
+Write a program to merge two dictionaries into one.
+34.	Check Armstrong Number
+Write a program to check if a number is an Armstrong number.
+35.	LCM of Two Numbers
+Write a program to find the Least Common Multiple (LCM) of two numbers.
+36.	GCD of Two Numbers
+Write a program to find the Greatest Common Divisor (GCD) of two numbers.
+37.	Count Characters in a String
+Write a program to count the number of each character in a string.
+38.	Sort a Dictionary by Value
+Write a program to sort a dictionary by its values.
+39.	Sum of Natural Numbers Using Recursion
+Write a recursive function to find the sum of the first n natural numbers.
+40.	Check Prime Using Recursion
+Write a recursive function to check if a number is prime.
+41.	List of Divisors
+Write a program that lists all divisors of a number.
+42.	Random Number Generation
+Write a program to generate a random number between 1 and 100.
+43.	Rock, Paper, Scissors Game
+Write a program to simulate the Rock, Paper, Scissors game.
+44.	Remove Punctuation from a String
+Write a program to remove all punctuation from a given string.
+45.	Caesar Cipher
+Write a program to encrypt and decrypt a message using Caesar Cipher.
+46.	List of Comprehension with Conditions
+Use list comprehension to create a list of numbers divisible by 3 from 1 to 100.
+47.	Transpose a Matrix
+Write a program to transpose a matrix.
+48.	List of Squares and Cubes
+Write a program that creates a list of squares and cubes of numbers from 1 to 10.
+49.	Iterate over a Dictionary
+Write a program that iterates over a dictionary and prints the keys and values.
+50.	Find Common Elements in Two Lists
+Write a program to find common elements in two lists.
+51.	Convert List to Dictionary
+Write a program to convert two lists into a dictionary.
+52.	Sum of Odd Numbers
+Write a program that finds the sum of odd numbers between 1 and 100.
+53.	Flatten a Nested List
+Write a program to flatten a nested list.
+54.	Find Intersection of Two Sets
+Write a program to find the intersection of two sets.
+55.	Create a Set of Unique Elements
+Write a program to create a set of unique elements from a list.
+56.	Check if a Number is Perfect
+Write a program to check if a number is perfect.
+57.	Write a Decorator Function
+Write a decorator function that logs the execution time of another function.
+58.	Convert Decimal to Binary
+Write a program to convert a decimal number to binary.
+59.	Merge and Sort Two Lists
+Write a program that merges and sorts two lists.
+60.	Check if a List is Sorted
+Write a program to check if a list is sorted.
+Advanced Level (61–100)
+61.	Implement a Stack
+Write a program to implement stack data structure using lists.
+62.	Implement a Queue
+Write a program to implement queue data structure using lists.
+63.	Find All Permutations of a String
+Write a program to generate all permutations of a string.
+64.	Check if a Binary Tree is Balanced
+Write a program to check if a binary tree is balanced.
+65.	Create a Simple Web Scraper
+Use the requests and BeautifulSoup libraries to scrape data from a website.
+66.	Generate Prime Numbers with Sieve of Eratosthenes
+Implement the Sieve of Eratosthenes to generate prime numbers.
+67.	Find Shortest Path in a Graph
+Write a program to find the shortest path in a graph using Dijkstra's algorithm.
+68.	Simulate a Bank System
+Write a program that simulates a bank system with accounts, deposits, and withdrawals.
+69.	Convert JSON to Python Object
+Write a program that converts a JSON object to a Python object and vice versa.
+70.	Create a Custom Exception
+Write a custom exception class in Python and raise it in an appropriate situation.
+71.	Implement Merge Sort
+Write a program to implement merge sort.
+72.	Implement Quick Sort
+Write a program to implement quicksort.
+73.	Binary Search Tree
+Write a program to create a binary search tree and implement insertion and search.
+74.	LRU Cache Implementation
+Write a program to implement an LRU (Least Recently Used) cache.
+75.	Check if Two Trees are Identical
+Write a program to check if two binary trees are identical.
+76.	Simple Chatbot
+Write a program that simulates a simple chatbot.
+77.	Use Regex for Email Validation
+Write a program that validates email addresses using regular expressions.
+78.	File I/O Operations
+Write a program that reads a file and counts the number of words in it.
+79.	Concurrency with Threads
+Write a program that demonstrates the use of multithreading.
+80.	Asynchronous Programming with Asyncio
+Write a program that demonstrates asynchronous tasks using the asyncio library.
+81.	Serialize Python Objects with Pickle
+Write a program that serializes and deserializes Python objects using the pickle module.
+82.	Solve a Sudoku Puzzle
+Write a program that solves a given Sudoku puzzle.
+83.	Count Inversions in an Array
+Write a program to count the number of inversions in an array.
+84.	Find Median in a List
+Write a program that finds the median in a list of numbers.
+85.	Implement a Graph using Adjacency List
+Write a program to represent a graph using an adjacency list and implement depth-first search (DFS) and breadth-first search (BFS).
+86.	Create a Command-line Calculator
+Write a command-line calculator using argparse.
+87.	Find the Longest Common Subsequence
+Write a program to find the longest common subsequence in two strings.
+88.	Solve the N-Queens Problem
+Write a program to solve the N-Queens problem using backtracking.
+89.	Find the Longest Palindromic Substring
+Write a program to find the longest palindromic substring in a string.
+90.	Implement a Priority Queue
+Write a program to implement a priority queue.
+91.	Find the Minimum Spanning Tree
+Write a program to find the minimum spanning tree of a graph using Kruskal's or Prim's algorithm.
+92.	Implement a Linked List
+Write a program to implement a singly linked list.
+93.	Check if a Graph is Bipartite
+Write a program to check if a graph is bipartite.
+94.	K-Means Clustering
+Write a program to implement the K-Means clustering algorithm.
+95.	Create a Simple Flask API
+Create a simple API using the Flask framework.
+96.	Implement a Trie (Prefix Tree)
+Write a program to implement a Trie for storing and searching words efficiently.
+97.	Solve a Knapsack Problem
+Write a program to solve the knapsack problem using dynamic programming.
+98.	Find Strongly Connected Components in a Graph
+Write a program to find strongly connected components in a directed graph.
+99.	Simulate a Traffic Light System
+Write a program that simulates a traffic light system using state machines.
+100.	Create a Chat Application with Sockets
+Build a simple chat application using Python sockets.
+These exercises will help you practice and grow from beginner to advanced concepts in Python, covering a variety of essential programming topics. Let me know if you'd like explanations or solutions to any of these problems!
+
