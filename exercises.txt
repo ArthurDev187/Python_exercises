@@ -14,8 +14,10 @@ Write a program that takes user input and prints it.
 
 5.	Fahrenheit to Celsius
 Write a program to convert temperatures from Fahrenheit to Celsius.
+
 6.	Find Largest Number
 Write a program that finds the largest of three numbers.
+
 7.	Area of a Circle
 Write a program to calculate the area of a circle from a given radius.
 8.	String Length
