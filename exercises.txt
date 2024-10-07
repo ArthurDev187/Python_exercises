@@ -20,8 +20,10 @@ Write a program that finds the largest of three numbers.
 
 7.	Area of a Circle
 Write a program to calculate the area of a circle from a given radius.
+
 8.	String Length
 Write a program that takes a string and prints the length.
+
 9.	Check Leap Year
 Write a program to check if a given year is a leap year.
 10.	Count Vowels in a String
