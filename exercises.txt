@@ -26,8 +26,10 @@ Write a program that takes a string and prints the length.
 
 9.	Check Leap Year
 Write a program to check if a given year is a leap year.
+
 10.	Count Vowels in a String
 Write a program to count the number of vowels in a string.
+
 11.	Sum of List
 Write a program to calculate the sum of all elements in a list.
 12.	Reverse a String
