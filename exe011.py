@@ -6,7 +6,6 @@ new_list = [
 total_sum = 0
 
 for i in new_list:
-    if i.isnumeric():
-        total_sum += float(i)
+    total_sum += 1
 
 print(f'Total sum elements in the list: {total_sum}')
