@@ -16,3 +16,5 @@ if nineteen and count_five > 2:
     print('The list has nineteen and 3 or more numbers 5.')
 else:
     print('The list has not the necessary to pass.')
+# teste
+print()
