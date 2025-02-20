@@ -1,0 +1,25 @@
+# Write a Python program that accepts a list of integers and calculates the length 
+# and the fifth element. Return true if the length of the list is 8 and the fifth 
+# element occurs thrice in the said list.
+
+# Input:
+#list_1 = [19, 19, 15, 5, 5, 5, 1, 2]
+# Output:
+# True
+# Input:
+#list_1 = [19, 15, 5, 7, 5, 5, 2]
+# Output:
+# False
+# Input:
+#list_1 = [11, 12, 14, 13, 14, 13, 15, 14]
+# Output:
+# True
+# Input:
+list_1 = [19, 15, 11, 7, 5, 6, 2]
+# Output:
+# False
+
+if list_1.count(list_1[4]) == 3 and len(list_1) == 8:
+    print(True)
+else:
+    print(False)
