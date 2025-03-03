@@ -10,10 +10,16 @@
 
 # Print a message based on whether the condition is True or False:
 
-a = 200
-b = 300
+# a = 200
+# b = 300
 
-if a > b:
-    print('The value of a is bigger than b')
-else:
-    print('The value of b is bigger than a')
+# if a > b:
+#     print('The value of a is bigger than b')
+# else:
+#     print('The value of b is bigger than a')
+
+
+# Evaluate Values and Variables
+
+print(bool('Hello'))
+print(bool(None))
