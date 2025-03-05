@@ -15,3 +15,9 @@ print(this_list[3:7])
 print(this_list[2:-2])
 print(this_list[::2])
 print(this_list[::-2])
+print()
+
+if 'Apple' in this_list:
+    print('Apple is in the list.')
+else:
+    print('Apple is not in the list.')
