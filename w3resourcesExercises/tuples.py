@@ -29,4 +29,28 @@ print()
 its_a_tuple = ('Apple',)
 its_not_a_tuple = ('Apple')
 print(f'{its_a_tuple=} {type(its_a_tuple)}')
-print(f'{its_not_a_tuple=} {type(its_not_a_tuple)}')
+print(f'{its_not_a_tuple=} {type(its_not_a_tuple)}\n')
+
+
+"""Tuple items can be of any data type:
+Example
+String, int and boolean data types:"""
+
+
+print(f'Tuples types accepted')
+stringtuple = ('apple', 'pinapple', 'orange')
+numbertuple = (1, 2, 3, 4, 5.0)
+booltuple = (True, True, False, False)
+print(f'{stringtuple=}')
+print(f'{numbertuple=}')
+print(f'{booltuple=}')
+
+# A tuple with strings, integers and boolean values:
+
+mixtuple = (123, 'tuple', True, '342', 432.2, None)
+print(f'{mixtuple=}')
+
+# Using the tuple() method to make a tuple:
+
+tuplemethod = tuple((1234, 4312.2, 'abcd', True))
+print(f'{tuplemethod=}')
