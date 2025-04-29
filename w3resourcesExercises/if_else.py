@@ -74,6 +74,51 @@ If you have only one statement to execute, one for if, and one for else, you can
 Example
 One line if else statement:"""
 
-a = 200
-b = 30
-print('a is greater than b') if a > b else print('b is greater than a')
+# a = 200
+# b = 30
+# print('a is greater than b') if a > b else print('b is greater than a')
+
+"""You can also have multiple else statements on the same line:
+
+Example
+One line if else statement, with 3 conditions:"""
+
+# a = 330
+# b = 330
+# print('a') if a > b else print('=') if a == b else print('b')
+
+"""And
+The and keyword is a logical operator, and is used to combine conditional statements:
+
+Example
+Test if a is greater than b, AND if c is greater than a:"""
+
+# a = 200
+# b = 33
+# c = 500
+# if a > b and c > a:
+#     print('Both condition are True.')
+
+"""Or
+The or keyword is a logical operator, and is used to combine conditional statements:
+
+Example
+Test if a is greater than b, OR if a is greater than c:"""
+
+# a = 200
+# b = 33
+# c = 500
+# if a > b or c > a:
+#     print('At least one of the condition is True')
+
+"""Not
+The not keyword is a logical operator, and is used to reverse the result of the conditional statement:
+
+Example
+Test if a is NOT greater than b:"""
+
+a = 33
+b = 200
+if not a > b:
+    print('a is not greater than b.')
+    
